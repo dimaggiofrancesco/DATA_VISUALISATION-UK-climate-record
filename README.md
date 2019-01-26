@@ -1,5 +1,7 @@
 # UK-daily-climate-record
 
+*This repository was taken from an assignment I did on Coursera.org platform:  
+Applied Plotting, Charting & Data Representation in Python*
 
 **Project aim:**  
 * Read the documentation and familiarize with the dataset, then write python code which returns a line
